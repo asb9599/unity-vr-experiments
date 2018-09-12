@@ -694,12 +694,12 @@ PlayerSettings:
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
-    UNet: 0
+    UNet: 1
     Unity_Ads: 0
-  facebookSdkVersion: 
+  facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: d727bfda-a573-4ceb-b537-530b9e6482a5
-  projectName: 
+  projectName: Initial SteamVR Tests
   organizationId: asb9599
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
