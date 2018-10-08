@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: ff312ef29321f294f9a933db6c90ac5f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: IndexBase.L
+    100002: IndexBase.L.001
+    100004: IndexBase.L.001_end
+    100006: IndexControl.L
+    100008: IndexControl.L.001
+    100010: IndexControl.L.001_end
+    100012: IndexControl.L.002
+    100014: IndexControl.L.002_end
+    100016: IndexControl.L.003
+    100018: IndexControl.L.003_end
+    100020: IndexControl.L_end
+    100022: IndexControl1.L
+    100024: IndexControl1.L.001
+    100026: IndexControl1.L.002
+    100028: IndexControl1.L.003
+    100030: IndexControl2.L
+    100032: IndexControl2.L.001
+    100034: IndexControl2.L.002
+    100036: IndexControl2.L.003
+    100038: IndexDeform1.L
+    100040: IndexDeform1.L.001
+    100042: IndexDeform1.L.002
+    100044: IndexDeform1.L.003
+    100046: IndexDeform2.L
+    100048: IndexDeform2.L.001
+    100050: IndexDeform2.L.002
+    100052: IndexDeform2.L.003
+    100054: IndexDeform3.L
+    100056: IndexDeform3.L.001
+    100058: IndexDeform3.L.001_end
+    100060: IndexDeform3.L.002
+    100062: IndexDeform3.L.002_end
+    100064: IndexDeform3.L.003
+    100066: IndexDeform3.L.003_end
+    100068: IndexDeform3.L.004
+    100070: IndexDeform3.L.004_end
+    100072: IndexDeform3.L.005
+    100074: IndexDeform3.L.005_end
+    100076: IndexDeform3.L.006
+    100078: IndexDeform3.L.006_end
+    100080: IndexDeform3.L.007
+    100082: IndexDeform3.L.007_end
+    100084: IndexDeform3.L_end
+    100086: IndexTip_IK.L
+    100088: IndexTip_IK.L.001
+    100090: IndexTip_IK.L.001_end
+    100092: IndexTip_IK.L.002
+    100094: IndexTip_IK.L.002_end
+    100096: IndexTip_IK.L.003
+    100098: IndexTip_IK.L.003_end
+    100100: IndexTip_IK.L_end
+    100102: //RootNode
+    100104: Wrist.L
+    100106: Wrist.L.001
+    100108: Wrist.L.001_end
+    100110: Wrist.L.002
+    100112: Wrist.L.002_end
+    100114: Wrist.L.003
+    100116: Wrist.L.004
+    100118: Wrist.L.004_end
+    400000: IndexBase.L
+    400002: IndexBase.L.001
+    400004: IndexBase.L.001_end
+    400006: IndexControl.L
+    400008: IndexControl.L.001
+    400010: IndexControl.L.001_end
+    400012: IndexControl.L.002
+    400014: IndexControl.L.002_end
+    400016: IndexControl.L.003
+    400018: IndexControl.L.003_end
+    400020: IndexControl.L_end
+    400022: IndexControl1.L
+    400024: IndexControl1.L.001
+    400026: IndexControl1.L.002
+    400028: IndexControl1.L.003
+    400030: IndexControl2.L
+    400032: IndexControl2.L.001
+    400034: IndexControl2.L.002
+    400036: IndexControl2.L.003
+    400038: IndexDeform1.L
+    400040: IndexDeform1.L.001
+    400042: IndexDeform1.L.002
+    400044: IndexDeform1.L.003
+    400046: IndexDeform2.L
+    400048: IndexDeform2.L.001
+    400050: IndexDeform2.L.002
+    400052: IndexDeform2.L.003
+    400054: IndexDeform3.L
+    400056: IndexDeform3.L.001
+    400058: IndexDeform3.L.001_end
+    400060: IndexDeform3.L.002
+    400062: IndexDeform3.L.002_end
+    400064: IndexDeform3.L.003
+    400066: IndexDeform3.L.003_end
+    400068: IndexDeform3.L.004
+    400070: IndexDeform3.L.004_end
+    400072: IndexDeform3.L.005
+    400074: IndexDeform3.L.005_end
+    400076: IndexDeform3.L.006
+    400078: IndexDeform3.L.006_end
+    400080: IndexDeform3.L.007
+    400082: IndexDeform3.L.007_end
+    400084: IndexDeform3.L_end
+    400086: IndexTip_IK.L
+    400088: IndexTip_IK.L.001
+    400090: IndexTip_IK.L.001_end
+    400092: IndexTip_IK.L.002
+    400094: IndexTip_IK.L.002_end
+    400096: IndexTip_IK.L.003
+    400098: IndexTip_IK.L.003_end
+    400100: IndexTip_IK.L_end
+    400102: //RootNode
+    400104: Wrist.L
+    400106: Wrist.L.001
+    400108: Wrist.L.001_end
+    400110: Wrist.L.002
+    400112: Wrist.L.002_end
+    400114: Wrist.L.003
+    400116: Wrist.L.004
+    400118: Wrist.L.004_end
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
