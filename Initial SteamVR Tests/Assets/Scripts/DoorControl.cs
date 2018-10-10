@@ -8,15 +8,15 @@ public class DoorControl : MonoBehaviour
     public bool isOpen;
     // Private Variables
     Animator anim;
-	// Use this for initialization
-	void Start ()
+    // Use this for initialization
+    void Start()
     {
         // Cache animator component
         anim = GetComponent<Animator>();
         // Set isOpen to be false
         isOpen = false;
-	}
-	
+    }
+
     public void Open()
     {
         // Check if isOpen is set to false
