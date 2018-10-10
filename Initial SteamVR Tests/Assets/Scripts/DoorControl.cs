@@ -8,11 +8,14 @@ public class DoorControl : MonoBehaviour
     public bool isOpen;
     // Private Variables
     Animator anim;
+    AudioSource audioSource;
     // Use this for initialization
     void Start()
     {
         // Cache animator component
         anim = GetComponent<Animator>();
+        // Cache audio source component
+        audioSource = GetComponent<AudioSource>();
         // Set isOpen to be false
         isOpen = false;
     }
@@ -24,6 +27,8 @@ public class DoorControl : MonoBehaviour
         {
             // Set isOpen to true
             isOpen = true;
+            // Play the door opening sound effect
+            audioSource.Play();
             // Fire off the open trigger of the animator
             anim.SetTrigger("Open");
         }

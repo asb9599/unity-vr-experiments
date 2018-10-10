@@ -11,12 +11,14 @@ public class Torch : MonoBehaviour
     public GameObject BaseFlame;
     public GameObject Etincelles;
     public GameObject Fumee;
+    public AudioSource audioSource;
     public float MaxLightIntensity;
     public float IntensityLight;
 
     // Use this for initialization
     void Start ()
     {
+        audioSource = GetComponent<AudioSource>();
         TorchLight.GetComponent<Light>().intensity = IntensityLight;
         MainFlame.GetComponent<ParticleSystem>().emissionRate = IntensityLight * 20f;
         BaseFlame.GetComponent<ParticleSystem>().emissionRate = IntensityLight * 15f;
@@ -57,6 +59,8 @@ public class Torch : MonoBehaviour
         // Set isLit to false
         isLit = false;
         // Set all the torch parts to be inactive
+        //audioSource.enabled = false;
+        audioSource.Stop();
         TorchLight.SetActive(false);
         MainFlame.SetActive(false);
         BaseFlame.SetActive(false);
@@ -69,6 +73,8 @@ public class Torch : MonoBehaviour
         // Set isLit to true
         isLit = true;
         // Set all the torch parts to be inactive
+        //audioSource.enabled = true;
+        audioSource.Play();
         TorchLight.SetActive(true);
         MainFlame.SetActive(true);
         BaseFlame.SetActive(true);
