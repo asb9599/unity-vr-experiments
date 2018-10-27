@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Interactivity Test.unity
+- path: Assets/Scenes/Shooting Range.unity
   isLoaded: 1
   isActive: 1

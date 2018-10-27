@@ -25,8 +25,12 @@ public class TorchPuzzleManager : MonoBehaviour
             // Check if all torches have been lit
             if (torches.All(torch => torch.isLit == true))
             {
+                // Set puzzleSolved to true
+                puzzleSolved = true;
                 // Send a message to open the door
                 doorControl.Open();
+                // Close the door after 10 seconds
+                doorControl.Invoke("Close", 10);
             }
         }
 	}

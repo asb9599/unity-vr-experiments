@@ -42,6 +42,8 @@ public class DoorControl : MonoBehaviour
         {
             // Set isOpen to false
             isOpen = false;
+            // Play the door opening sound effect
+            audioSource.Play();
             // Fire off the close trigger of the animator
             anim.SetTrigger("Close");
         }

@@ -388,6 +388,7 @@
     <Compile Include="Assets\NewtonVR\CollisionSoundFramework\Editor\NVRCollisionSoundControllerEditor.cs" />
     <Compile Include="Assets\NewtonVR\Editor\NVRPlayerEditor.cs" />
     <Compile Include="Assets\NewtonVR\Editor\NVRTeleporterEditor.cs" />
+    <Compile Include="Assets\NOT_Lonely\Object Placement Tool\Editor\NL_ObjectPlacementTool_window.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\About\Editor\pb_AboutWindow.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\About\Editor\pb_UpdateAvailable.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\About\Editor\pb_UpdateCheck.cs" />
@@ -457,6 +458,7 @@
     <None Include="Assets\3DAssets\Shaders\SlidingUV.shader" />
     <None Include="Assets\3DAssets\Shaders\UIOverlay.shader" />
     <None Include="Assets\3DAssets\Shaders\UnlitTransparentParam.shader" />
+    <None Include="Assets\NOT_Lonely\Object Placement Tool\Readme.txt" />
     <None Include="Assets\NewtonVR\Example\Fonts\Roboto\LICENSE.txt" />
     <None Include="Assets\NewtonVR\Example\Shaders\3DText.shader" />
     <None Include="Assets\NewtonVR\Resources\Shaders\Vignette.shader" />

@@ -376,6 +376,8 @@
     <Compile Include="Assets\NewtonVR\SteamVR\NVRSteamVRIntegration.cs" />
     <Compile Include="Assets\NewtonVR\WindowsMR\NVRWindowsMRInput.cs" />
     <Compile Include="Assets\NewtonVR\WindowsMR\NVRWindowsMRIntegration.cs" />
+    <Compile Include="Assets\NOT_Lonely\Object Placement Tool\Nl_DragObject.cs" />
+    <Compile Include="Assets\NOT_Lonely\Object Placement Tool\NL_PhysicsPlacer.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\CameraControls.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\IcoBumpin.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Misc\HueCube.cs" />
@@ -390,6 +392,7 @@
     <Compile Include="Assets\ProCore\ProGrids\Classes\pg_Util.cs" />
     <Compile Include="Assets\ProCore\ProGrids\MonoBehaviour\pg_IgnoreSnap.cs" />
     <Compile Include="Assets\Scripts\DoorControl.cs" />
+    <Compile Include="Assets\Scripts\RendererInfo.cs" />
     <Compile Include="Assets\Scripts\Torch.cs" />
     <Compile Include="Assets\Scripts\TorchPuzzleManager.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
@@ -511,6 +514,7 @@
     <None Include="Assets\3DAssets\Shaders\SlidingUV.shader" />
     <None Include="Assets\3DAssets\Shaders\UIOverlay.shader" />
     <None Include="Assets\3DAssets\Shaders\UnlitTransparentParam.shader" />
+    <None Include="Assets\NOT_Lonely\Object Placement Tool\Readme.txt" />
     <None Include="Assets\NewtonVR\Example\Fonts\Roboto\LICENSE.txt" />
     <None Include="Assets\NewtonVR\Example\Shaders\3DText.shader" />
     <None Include="Assets\NewtonVR\Resources\Shaders\Vignette.shader" />
